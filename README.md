@@ -1,16 +1,14 @@
 # homework_2_app
 
-A new Flutter project.
+Segunda tarea de la asignatura "Desarrollo de Aplicaciones Móviles Básicas"
 
-## Getting Started
+Incluí un personaje de mi videojuego favorito ya que no tengo serie favorita.
 
-This project is a starting point for a Flutter application.
+Resultado: 
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Imagen centrada
+- [x] Texto centrado (Nombre del personaje)
+- [x] Nombre del autor en la barra de título
+- [x] Estilo diferente al que viene por defecto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura](https://res.cloudinary.com/dqaav1s3t/image/upload/v1612592193/flutter/homework2_fupxbp.png)
